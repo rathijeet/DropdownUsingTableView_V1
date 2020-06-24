@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     let dropDownTb = DropDownTableViewController()
+    let secondVc =  SecondViewController()
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Successfully studied GitHub")
