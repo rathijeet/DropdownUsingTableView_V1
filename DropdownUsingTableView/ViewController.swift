@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let dropDownTb = DropDownTableViewController()
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Successfully studied GitHub")
         // Do any additional setup after loading the view.
     }
 
